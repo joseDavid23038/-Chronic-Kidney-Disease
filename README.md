@@ -7,11 +7,11 @@
 
 <h3><b>Sobre o repositório:</h3> </b>
 
-<p align = 'justify'>É possível acessar neste repositório o processo de tratamento dos dados do dataset original a partir da pasta "Experimentos e tratamento do dataset". Esta contém o dataset original da referência 4 e um notebook em python com a descrição das operações feitas. Essa pasta de testes tem por objetivo confirmar os resultados obtidos na referência 4 e confirmar o módelo de Floresta Aleatória como o melhor para a classificação da pessoa como portadora possível ou não de doença crônica renal. </b>
-<p align = 'justify'>Na pasta "Modelo Final" é possível acessar o dataset depois do processo de tratamento e um notebook em python com o mesmo nome da pasta, o qual descreve o processo de refazer o modelo e ao fim, exemplicar um meio de aplicação de dados de um paciente nesse modelo para determinar se muito possivelmente ele tem a doença ou não. É importante ressaltar que os dados aplicados não são reais, são apenas dados comuns dentro os parametros de cada feature. 
+<p align = 'justify'>É possível acessar neste repositório o processo de tratamento dos dados do dataset original a partir da pasta "Experimentos e tratamento do dataset". Esta contém o dataset original da referência 4 e um notebook em python com a descrição das operações feitas. Essa pasta de testes tem por objetivo confirmar os resultados obtidos na referência 4 e confirmar o modelo de Floresta Aleatória como o melhor para a classificação da pessoa como portadora muito provável ou não de doença crônica renal. </b>
+<p align = 'justify'>Na pasta "Modelo Final" é possível acessar o dataset depois do processo de tratamento e um notebook em python com o mesmo nome da pasta, o qual descreve o processo de refazer o modelo e ao fim, exemplicar um meio de aplicação de dados de um paciente nesse modelo para determinar se muito provavelmente ele tem a doença ou não. É importante ressaltar que os dados aplicados não são reais, são apenas dados comuns dentro os parametros de cada feature. 
 
   
-<h3><b>Sobre doença crônnica renal:</h3> </b><br><br>
+<h3><b>Sobre doença crônica renal:</h3> </b><br>
 <p align = 'justify'>
 <b>O que é e quais os fatores de risco: </b><br><br>
 A doença crônicas renail é uma condição em que os rins têm perda total, ou parcial de suas funções, essenciais para o bom funcionamento do corpo. Os rins têm como função principal a diálise, processo pelo qual o sangue é filtrado para eliminar substâncias tóxicas e excesso de líquidos[1]. Diz-se “crônica” pois consiste em um processo gradual lento e progressivo  do acúmulo de resíduos no organismo. Devido a esse acúmulo de resíduos, a DRC culmina em complicações ainda mais graves, como: hipertensão, fadiga, arritmia, inchaço, entre outras. Além disso, a DRC é uma doença silenciosa, que tem registrado altos índices de prevalência e mortes em todo mundo [2].  
