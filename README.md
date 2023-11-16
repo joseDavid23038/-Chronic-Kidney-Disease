@@ -8,7 +8,8 @@
 <h3><b>Sobre o repositório:</h3> </b>
 
 <p align = 'justify'>É possível acessar neste repositório o processo de tratamento dos dados do dataset original a partir da pasta "Experimentos e tratamento do dataset". Esta contém o dataset original da referência 4 e um notebook em python com a descrição das operações feitas. Essa pasta de testes tem por objetivo confirmar os resultados obtidos na referência 4 e confirmar o modelo de Floresta Aleatória como o melhor para a classificação da pessoa como portadora muito provável ou não de doença crônica renal. </b>
-<p align = 'justify'>Na pasta "Modelo Final" é possível acessar o dataset depois do processo de tratamento e um notebook em python com o mesmo nome da pasta, o qual descreve o processo de refazer o modelo e ao fim, exemplicar um meio de aplicação de dados de um paciente nesse modelo para determinar se muito provavelmente ele tem a doença ou não. É importante ressaltar que os dados aplicados não são reais, são apenas dados comuns dentro os parametros de cada feature. 
+<p align = 'justify'>Na pasta "Modelo Final" é possível acessar o dataset depois do processo de tratamento e um notebook em python com o mesmo nome da pasta, o qual descreve o processo de refazer o modelo e ao fim, exemplicar um meio de aplicação de dados de um paciente nesse modelo para determinar se muito provavelmente ele tem a doença ou não. É importante ressaltar que os dados aplicados não são reais, são apenas dados comuns dentro os parametros de cada feature.  </b>
+<p align = 'justify'>A pasta "Chronic-Kidney-Disease-ML" não é acessível, ela apenas se trata se um branch para um outro repositório.
 
   
 <h3><b>Sobre doença crônica renal:</h3> </b><br>
